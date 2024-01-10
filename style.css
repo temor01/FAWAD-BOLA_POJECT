@@ -2,3 +2,9 @@
 body {
     background-image: url('https://w0.peakpx.com/wallpaper/291/686/HD-wallpaper-mercedes-benz-c63-amg-mercedes-car-gray-street-lights-christmas.jpg');
 }
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    background: white;
+}
