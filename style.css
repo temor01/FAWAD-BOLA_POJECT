@@ -8,3 +8,9 @@ h1 {
     font-style: italic;
     background: white;
 }
+
+ul {
+    font-family: "New Times Roman";
+    color: purple;
+    background-color: grey;
+    opacity: 0;
