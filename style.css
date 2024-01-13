@@ -9,9 +9,11 @@ h1 {
     background: white;
 }
 
+h2 {
+    background-color: white;
+}
+
 ul {
     font-family: "New Times Roman";
-    color: purple;
-    background-color: grey;
-    opacity: 0;
+    background-color: white;
 }
