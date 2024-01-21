@@ -3,13 +3,16 @@ body {
     font-size: 20px;
     font-family: "New Times Roman" sans-serif;
     baCKground-color: #FCEE0C;
+    padding: 5%;
 }
 
-h1 {
+h1,
+h2 {
     text-align: center;
     font-style: italic;
 }
 
-ul {
-    font-family: "New Times Roman";
+div {
+    text-align: center;
+    list-style-position: inside;
 }
