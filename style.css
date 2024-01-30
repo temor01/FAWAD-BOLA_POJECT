@@ -1,26 +1,6 @@
 
-body {
-    font-size: 20px;
-    font-family: "New Times Roman" sans-serif;
-    baCKground-color: #FCEE0C;
-    padding: 5%;
-}
-
-h1,
-h2 {
-    text-align: center;
-    font-style: italic;
-}
-
-div {
-    text-align: center;
-    list-style-position: inside;
-}
-
-ul {
-    list-style-type: none;
-}
-
-img {
-    display: inline;
+.top-display {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
 }
