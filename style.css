@@ -4,3 +4,10 @@
     justify-content: space-around;
     margin-top: 3%;
 }
+
+.top-header {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin: 3%;
+}
