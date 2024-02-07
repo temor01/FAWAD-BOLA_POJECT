@@ -15,10 +15,9 @@
 .bottom-line {
     display: flex;
     justify-content: center;
-    align-content: center;
-    margin-top: auto;
-  }
+    align-items: center;
+}
 
   h1 {
     text-align: center;
-  }
+}
