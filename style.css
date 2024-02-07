@@ -12,10 +12,11 @@
     margin: 3%;
 }
 
-.footer {
+.bottom-line {
     display: flex;
     justify-content: center;
     align-content: center;
+    margin-top: auto;
   }
 
   h1 {
