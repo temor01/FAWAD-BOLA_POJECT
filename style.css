@@ -1,4 +1,8 @@
 
+body {
+    margin: 10px 15px;
+}
+
 .top-display {
     display: flex;
     justify-content: space-around;
@@ -10,4 +14,22 @@
     justify-content: center;
     gap: 5%;
     margin: 3%;
+}
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    min-height: 99vh;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
 }
