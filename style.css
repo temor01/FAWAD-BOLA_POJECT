@@ -36,5 +36,6 @@ h2 {
 }
 
 form {
-    align-self: center;
+    display: flex;
+    justify-content: center;
 }
