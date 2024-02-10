@@ -6,7 +6,7 @@ body {
 .top-display {
     display: flex;
     justify-content: space-around;
-    margin-top: 3%;
+    margin-top: 2%;
 }
 
 .top-header {
@@ -15,7 +15,6 @@ body {
     gap: 5%;
     margin: 3%;
 }
-
 
 main {
     display: flex;
