@@ -33,6 +33,7 @@ footer {
     gap: 3%;
     align-items: center;
     margin-bottom: 20px;
+    background-color: grey;
 }
 
 h1,
