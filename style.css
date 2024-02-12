@@ -34,7 +34,8 @@ footer {
     gap: 3%;
     align-items: center;
     margin-bottom: 20px;
-    background-color: grey;
+    background-color: lightgrey;
+    padding: 20px;
 }
 
 h1,
