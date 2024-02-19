@@ -1,5 +1,17 @@
 
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+    min-width: 860px;
+}
+
 body {
+    display: table-cell;
+    vertical-align: middle;
     margin: 10px 15px;
     box-sizing: border-box;
 
