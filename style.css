@@ -39,13 +39,20 @@ main {
     min-height: 95vh;
 }
 
+.footer_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    width: 98.8vw;
+}
+
 footer {
     display: flex;
     justify-content: center;
     gap: 3%;
     align-items: center;
     margin-bottom: 20px;
-    background-color: lightgrey;
     padding: 20px;
 }
 
