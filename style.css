@@ -14,13 +14,18 @@ body {
     vertical-align: middle;
     margin: 10px 15px;
     box-sizing: border-box;
+}
 
+.top-display_container {
+    background-color: #e5e7eb;
+    width: 98.8vw;
 }
 
 .top-display {
     display: flex;
     justify-content: space-around;
     margin-top: 2%;
+    
 }
 
 .top-header {
