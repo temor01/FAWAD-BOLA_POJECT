@@ -22,7 +22,7 @@ header {
     display: flex;
     justify-content: center;
     color: white;
-    width: 1012px;
+    max-width: 1012px;
 }
 
 .footerContainer {
