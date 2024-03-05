@@ -1,7 +1,5 @@
 
 console.log("Hello, World!");
 
-let message = "Screw you guys,", send_off = "I'm going home!";
+console.log("so far only containers for header and footer has been created. 04/03/2024")
 
-alert(message);
-alert(send_off)
