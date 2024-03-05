@@ -35,11 +35,17 @@ a {
     background-color: #e5e7e5;
     display: flex;
     justify-content: center;
+    max-height: 200px;
 }
 
 footer {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     max-width: 1012px;
+    gap: 50px;
+}
+
+footer a {
+    color: black;
 }
