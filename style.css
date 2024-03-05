@@ -20,9 +20,15 @@ body {
 
 header {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;;
+    align-items: center;
     color: white;
-    max-width: 1012px;
+    width: 1012px;
+}
+
+a {
+    font-style: none;
+    color: white;
 }
 
 .footerContainer {
