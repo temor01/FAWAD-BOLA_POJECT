@@ -43,6 +43,7 @@ footer {
     justify-content: space-evenly;
     align-items: center;
     max-width: 1012px;
+    height: 60px;
     gap: 50px;
 }
 
