@@ -24,11 +24,15 @@ header {
     align-items: center;
     color: white;
     width: 1012px;
+    padding: 1rem;
 }
 
 a {
+    display: flex;
+    flex-wrap: nowrap;
     font-style: none;
     color: white;
+    white-space: nowrap;
 }
 
 .footerContainer {
