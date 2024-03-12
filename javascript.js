@@ -1,4 +1,8 @@
-remembrer to try backsticks for that John prompt thing that you couldn't manage to get working
+const button = document.querySelector("button");
 
+button.addEventListener("click", updateName);
 
-G-Class
+function updateName() {
+  const name = prompt("Enter a new name");
+  button.textContent = `Player 1: ${name}`;
+}
