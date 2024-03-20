@@ -27,6 +27,13 @@ header {
     padding: 1rem;
 }
 
+.main-header {
+    max-width: 1012px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 a {
     display: flex;
     flex-wrap: nowrap;
