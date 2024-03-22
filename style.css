@@ -28,10 +28,13 @@ header {
 }
 
 .main-header {
-    max-width: 1012px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.main-header_left {
+    width: 1012px;
 }
 
 a {
