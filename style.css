@@ -34,12 +34,11 @@ header {
     height: 400px;
 }
 
-.main-header_left {
+.main-header_container {
     width: 1012px;
-}
-
-.main-header_background-img {
-    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 a {
