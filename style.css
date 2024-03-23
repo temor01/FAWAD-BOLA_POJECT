@@ -31,10 +31,15 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 400px;
 }
 
 .main-header_left {
     width: 1012px;
+}
+
+.main-header_background-img {
+    height: 400px;
 }
 
 a {
