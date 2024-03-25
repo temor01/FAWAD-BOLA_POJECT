@@ -41,6 +41,10 @@ header {
     align-items: center;
 }
 
+.main-header_image {
+    opacity: 5;
+}
+
 a {
     display: flex;
     flex-wrap: nowrap;
