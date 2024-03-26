@@ -56,6 +56,9 @@ a {
 .middle_container {
     height: 400px;
     background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footerContainer {
