@@ -53,6 +53,11 @@ a {
     white-space: nowrap;
 }
 
+.middle_container {
+    width: 400px;
+    background-color: #3882f6;
+}
+
 .footerContainer {
     background-color: #e5e7e5;
     display: flex;
