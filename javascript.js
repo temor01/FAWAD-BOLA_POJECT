@@ -10,6 +10,8 @@ function updateName() {
 
 let greet = prompt("Hello weary traveller, who night you be? ");
 
-if greet === ('Arsalan' || 'arsalan') {
-  alert("Welcome, enjoy coming!");
+if (greet ==='Arsalan' || greet === 'arsalan') {
+  alert("Greetings, enjoy coding!");
+} else {
+  alert("Bugger off, will ya!");
 }
