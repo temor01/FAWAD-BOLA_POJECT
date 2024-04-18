@@ -27,6 +27,12 @@ header {
     padding: 1rem;
 }
 
+#navigation {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
 .main-header {
     display: flex;
     justify-content: center;
